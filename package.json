@@ -1,0 +1,30 @@
+{
+  "name": "manta_client",
+  "version": "1.0.5",
+  "description": "Easy way to create a client for Manta Node programs",
+  "main": "mclient.js",
+  "dependencies": {
+    "dashdash": "~1.4.0",
+    "manta": "~1.2"
+  },
+  "devDependencies": {
+    "tap": ""
+  },
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/manta_client"
+  },
+  "keywords": [
+    "manta",
+    "client"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drylikov/manta_client/issues"
+  },
+  "homepage": "https://github.com/drylikov/manta_client"
+}
